@@ -1,4 +1,3 @@
-
 Repository and clone
 Add   Reset   Commit
 push local changes to remote Repository
