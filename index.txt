@@ -1,0 +1,16 @@
+
+Repository and clone
+Add   Reset   Commit
+push local changes to remote Repository
+pull changes from remote to local
+Config
+Generate and test Public key
+Creat Repository From existing project
+Pull Request
+Alias
+Branching Merging 
+Stash
+Restore and clean
+Resetting The Head
+Ignoring file
+Tagging and releasing
